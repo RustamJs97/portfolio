@@ -1,0 +1,9 @@
+import m1 from '../img/jpg/m1.png'
+import m2 from '../img/jpg/m2.png'
+import m3 from '../img/jpg/m3.png'
+import m4 from '../img/jpg/m4.png'
+export const datas = [
+  { id: 1, img: m1, name: 'MuhammadRustam', status: 'programmer', title: `It sohasiga kirib kelayotgan boshlang'ich talabalar o'ylashadiki darslikni 90% internetda bor deyishadi ammo tangani ikkinchi tarafi ham borki darsikni juda ko'p qismi internet olamida bo'lsada muammolar bo'lsa ularga yechim juda oz va internet orqali yolg'iz o'rganishlik juda ko'p vaxtni oladi shuning uchun yosh dasturchilarga maslahatim o'quv markazida talim olgan holda internetdan orqali o'rganilsa nur ustiga a'lo nur bo'ladi` },
+  { id: 2, img: m2, name: 'MuhammadRustam', status: 'programmer', title: `Agar siz android dastur tuzish yoki backend va frontend ga qiziqish bo'lsa buning uchun yaxshi o'quv academiyasini izlayotgan bo'lsangiz sizlarga darslikni tez va sifatli of-line hamda on-line o'qishga ajoyib imkoniyat WEB-BRAIN academiyasi siz istaganizdan ham yuqori sifatli ta'lim beradi, o'tuvchilarimiz korea hamda hindistonda talim olgan mentorlardir. telegram: @wba2021 hamda telefon: +998977630774 orqali adminlarga murojat qilishingiz mumkin` },
+  { id: 3, img: m3, name: 'MuhammadRustam', status: 'programmer', title: `WEB-BRAIN academiyada ta'lim olganlarning 90% hozirda ishga kirgandir. WEB-BRAIN sizlarni ishga joylab qo'ymaydi ammo o'zingizdagi imkoniyatdan to'liq va to'g'ri foydalanishni o'rgatadi va amalda ko'rsattiradi. WEB-BRAINga o'quvchilarning soni muhim emas balki ularga o'quvchilarning tirishqoqligi va academiyadan olgan bilimni bekor sariflamasdan undan to'gri foydalanishligi WEB-BRAIN academyaga muhimdir` },
+]
